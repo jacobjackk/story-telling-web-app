@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Interactive Storytelling</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+  <div class="container mx-auto p-6">
+    <h1 class="text-4xl mb-6 font-bold text-center">Interactive Storytelling</h1>
+    <div id="story" class="story-container mb-8">
+      <p class="story-segment bg-white p-4 rounded-lg shadow-md mb-4">Once upon a time...</p>
+    </div>
+    <input type="text" id="storyInput" placeholder="Add to the story" class="w-full p-2 rounded-lg border border-gray-300 mb-4">
+    <button onclick="addStory()" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Add</button>
+    <input type="text" id="commentInput" placeholder="Add a comment" class="w-full p-2 rounded-lg border border-gray-300 mb-4">
+    <button onclick="addComment()" class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded">Comment</button>
+    <button onclick="voteStory()" class="bg-yellow-500 hover:bg-yellow-700 text-white font-bold py-2 px-4 rounded">Vote</button>
+    <button onclick="showProfile()" class="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded">Profile</button>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
