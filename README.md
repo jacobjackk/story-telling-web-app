@@ -26,4 +26,4 @@ Contributions to this project are welcome! Feel free to fork the repository, mak
 
 ## WhatsApp Groups
 
-If you're interested in engaging with our community and discussing story ideas, consider joining our [WhatsApp groups](https://cheetahlinks.com/news/).
+If you're interested in engaging with our community and discussing story ideas, consider joining our [KWWW](https://).
