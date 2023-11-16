@@ -26,4 +26,4 @@ Contributions to this project are welcome! Feel free to fork the repository, mak
 
 ## WhatsApp Groups
 
-If you're interested in engaging with our community and discussing story ideas, consider joining our [Group Links for Whatsaapp](https://cheetahlinks.com/funny-whatsapp-groups/).
+If you're interested in engaging with our community and discussing story ideas, consider joining our [Group Links for Whatsapp](https://cheetahlinks.com/funny-whatsapp-groups/).
